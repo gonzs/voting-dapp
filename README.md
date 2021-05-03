@@ -1,4 +1,4 @@
-# Voting descentralized Application
+# Voting decentralized Application
 
 ## Environment Setup
 
