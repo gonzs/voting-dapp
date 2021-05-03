@@ -15,11 +15,12 @@
 
 ### 3. Install MetaMask chrome extension
 
-## Ganache Configuration
+### 4. Ganache Configuration
+
+### 5. MetaMask Configuration
+
 
 ## Run Application
-
-## MetaMask Configuration
 
 
 
