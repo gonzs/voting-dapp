@@ -3,14 +3,11 @@
 ## Environment Setup
 
 ### 1. Dependencies
-1.1 Install [Nodejs](https://nodejs.org/es/) and npm
-<br>
-1.2 `$ npm install -g truffle` 
-( [truffle package](https://github.com/trufflesuite/truffle)  )
-<br> 
-1.3 `$ npm install -g ganache-cli` 
-( [ganache-cli package](https://github.com/trufflesuite/ganache-cli) )
-<br> 
+#### 1.1 Install [Nodejs](https://nodejs.org/es/) and npm
+#### 1.2 [Truffle package](https://github.com/trufflesuite/truffle)  
+`$ npm install -g truffle` 
+#### 1.3 [Ganache-cli package](https://github.com/trufflesuite/ganache-cli) 
+`$ npm install -g ganache-cli` 
 
 ### 2. Ganache desktop application
 [Install Ganache](https://www.trufflesuite.com/ganache)
