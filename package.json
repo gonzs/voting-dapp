@@ -1,6 +1,6 @@
 {
-  "name": "pet-shop",
-  "version": "1.0.0",
+  "name": "voting-app",
+  "version": "0.1.0",
   "description": "",
   "main": "truffle.js",
   "directories": {
