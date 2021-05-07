@@ -8,6 +8,9 @@ contract Election {
         uint256 voteCount;
     }
 
+    // Event
+    event votedEvent(uint256 indexed _candidateId);
+
     // Read/Write Candidates
     mapping(uint256 => Candidate) public candidates;
 
@@ -39,5 +42,8 @@ contract Election {
 
         // update candidate vote Count
         candidates[_candidateId].voteCount++;
+
+        // trigger voted event
+        emit votedEvent(_candidateId);
     }
 }
