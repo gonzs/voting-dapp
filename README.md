@@ -49,8 +49,8 @@ Import account using the private key provided when the blockchain network is bui
 
 ![](docs/images/Config-MetaMask2.png)
 
-
 ## DEMO
 
+![](docs/demo.gif)
 
 ## [Reference](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial)
