@@ -37,19 +37,20 @@ $ npm run dev
 
 ## Ganache Configuration
 Config host address
-![](config/images/Config-Ganache-desktop.png)
+![](docs/images/Config-Ganache-desktop.png)
 
 ## MetaMask Configuration
 
 Config network
 
-![](config/images/Config-MetaMask1.png)
+![](docs/images/Config-MetaMask1.png)
 
 Import account using the private key provided when the blockchain network is built
 
-![](config/images/Config-MetaMask2.png)
+![](docs/images/Config-MetaMask2.png)
 
 
+## DEMO
 
 
 ## [Reference](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial)
